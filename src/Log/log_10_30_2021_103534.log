@@ -1,0 +1,8 @@
+2021-Oct-30 10:35:21,734 [main] com.testingshastrasignuptests.SignUpPageTests 
+  INFO  Url is launced:https://www.ijmeet.com
+2021-Oct-30 10:35:33,577 [main] com.testingshastrasignuptests.SignUpPageTests 
+  INFO  Clicked on Register button
+2021-Oct-30 10:35:34,423 [main] com.testingshastrasignuptests.SignUpPageTests 
+  INFO  switched inside a frame 
+2021-Oct-30 10:35:34,686 [main] com.testingshastrasignuptests.SignUpPageTests 
+  INFO  jumped back from frame

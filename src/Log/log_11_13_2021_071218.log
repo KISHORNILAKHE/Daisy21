@@ -1,0 +1,4 @@
+2021-Nov-13 07:12:18,450 [TestNG-tests-1] TestListener.class 
+  INFO  Screenshot is saved successfully
+2021-Nov-13 07:12:23,111 [TestNG-tests-2] TestListener.class 
+  INFO  Test is failed . taking screenshot

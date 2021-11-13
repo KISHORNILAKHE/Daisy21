@@ -1,0 +1,16 @@
+2021-Nov-12 09:45:10,624 [main] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 09:45:15,990 [main] TestListener.class 
+  INFO  Screenshot is saved successfully
+2021-Nov-12 09:45:19,828 [main] com.testingshastrasignuptests.SignUpPageTests 
+  INFO  launched urlhttps://www.ijmeet.com
+2021-Nov-12 09:45:24,765 [main] com.testingshastrasignuptests.SignUpPageTests 
+  INFO  clicked on signup
+2021-Nov-12 09:45:25,485 [main] com.testingshastrasignuptests.SignUpPageTests 
+  INFO  filled all the fields
+2021-Nov-12 09:45:25,506 [main] com.testingshastrasignuptests.SignUpPageTests 
+  INFO  switched to frame 0
+2021-Nov-12 09:45:25,766 [main] com.testingshastrasignuptests.SignUpPageTests 
+  INFO  switched back from frame
+2021-Nov-12 09:45:27,193 [main] com.testingshastrasignuptests.SignUpPageTests 
+  INFO  clicked on submit buttin

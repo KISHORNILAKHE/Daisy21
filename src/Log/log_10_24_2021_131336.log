@@ -1,0 +1,4 @@
+2021-Oct-24 13:13:36,673 [main] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Oct-24 13:13:40,385 [main] TestListener.class 
+  INFO  Screenshot is saved successfully

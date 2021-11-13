@@ -1,0 +1,46 @@
+2021-Nov-12 20:21:25,848 [TestNG-tests-1] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 20:21:37,321 [TestNG-tests-1] TestListener.class 
+  INFO  Screenshot is saved successfully
+2021-Nov-12 20:21:37,367 [TestNG-tests-1] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 20:21:37,904 [TestNG-tests-1] TestListener.class 
+  INFO  Screenshot is saved successfully
+2021-Nov-12 20:21:37,927 [TestNG-tests-1] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 20:21:38,398 [TestNG-tests-1] TestListener.class 
+  INFO  Screenshot is saved successfully
+2021-Nov-12 20:21:38,422 [TestNG-tests-1] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 20:21:39,056 [TestNG-tests-1] TestListener.class 
+  INFO  Screenshot is saved successfully
+2021-Nov-12 20:23:20,393 [TestNG-tests-3] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 20:23:22,383 [TestNG-tests-2] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 20:23:34,607 [TestNG-tests-2] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 20:23:46,731 [TestNG-tests-2] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 20:23:58,919 [TestNG-tests-2] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 20:24:22,637 [TestNG-tests-1] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 20:24:47,653 [TestNG-tests-2] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 20:24:48,727 [TestNG-tests-3] TestListener.class 
+  INFO  Screenshot is saved successfully
+2021-Nov-12 20:24:48,746 [TestNG-tests-3] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 20:24:49,260 [TestNG-tests-1] TestListener.class 
+  INFO  Screenshot is saved successfully
+2021-Nov-12 20:24:56,983 [TestNG-tests-3] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 20:24:56,993 [TestNG-tests-2] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 20:24:57,003 [TestNG-tests-3] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 20:24:57,015 [TestNG-tests-2] TestListener.class 
+  INFO  Test is failed . taking screenshot
+2021-Nov-12 20:24:57,037 [TestNG-tests-2] TestListener.class 
+  INFO  Test is failed . taking screenshot
