@@ -39,6 +39,7 @@ public class HomePageTests extends BaseClass {
 
 		HomePage home = new HomePage();
 		home.getTextOfInfoLinks();
+		System.out.println("this is just a git demo");
 	}
 	
 	@Test
